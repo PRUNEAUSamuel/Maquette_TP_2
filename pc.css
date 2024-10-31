@@ -1,0 +1,29 @@
+@media (min-width: 600px) {
+    nav {padding: 20px 0px 0px 40px;}
+
+    a {font-size: 13px;}
+
+    body {font-size: 14px;}
+
+    .presentation {height: 45vh;
+        background-size: cover;}
+
+    .presentation__p, .actus {font-size: 34.5px;}
+
+    .second {flex-wrap: nowrap;
+        justify-content: center;}
+
+    .second_div {width: 20%;
+        margin: 15px;}
+
+    .news {margin: 55px 6px;}
+
+    .contact {padding: 20px 0px 65px 0px;}
+
+    form {margin-top: 30px;}
+
+    .form_div {width: 270px;
+        margin: 6px 0px;}
+
+    .form_button {margin: 6px 14px}
+}
